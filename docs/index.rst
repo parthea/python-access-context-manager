@@ -1,12 +1,12 @@
 .. include:: README.md
 
+Reference
+---------
 .. toctree::
     :maxdepth: 2
 
     type
     v1
-
-.. include:: multiprocessing.rst
 
 Changelog
 ---------
